@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <class>com.raltamirano.openfire.plugins.buzzwords.Buzzwords</class>
+
+    <name>Buzzwords!</name>
+    <description>Plugin to record word frequency/usage metrics</description>
+    <author>Rodrigo Altamirano</author>
+
+    <version>1.0</version>
+    <date>06/04/2013</date>
+    <url>https://github.com/raltamirano</url>
+    <minServerVersion>3.0.0</minServerVersion>
+    <licenseType>gpl</licenseType>
+    <databaseKey>buzzwords</databaseKey>
+    <databaseVersion>0</databaseVersion>
+</plugin>
